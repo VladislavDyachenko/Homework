@@ -1,4 +1,4 @@
-package com.gmail.vlad.dyachenko487;
+package com.gmail.vlad.dyachenko487.leasson1;
 
 import java.util.Scanner;
 
@@ -42,8 +42,9 @@ public class Main {
 
 
         double circumference = Math.PI * 2 * radius;
-        System.out.println("Длины окружности равна: " + circumference);
+        System.out.println("Длина окружности равна: " + circumference);
 
         sc.close();
+
     }
 }
